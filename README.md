@@ -22,7 +22,3 @@ The script performs the following steps:
 ## Usage
 
 To use the script, simply run it in a Python environment. It will output the sample input features and output labels and then generate and display two plots: the training loss over time and the predicted output against the true output.
-
-## Credits
-
-This script was created by [insert your name here].
